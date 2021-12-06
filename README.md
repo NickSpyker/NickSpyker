@@ -1,14 +1,27 @@
 # Nicolas Spijkerman
 ### Welcome 👋
-
-- 🔭 I’m currently working on ...
+---
+- 🔭 I'm currently studying at:
+  - Epitech Montpellier 
 - 🌱 I’m currently learning:
-  - C
+  - C/C++
   - Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on:
+  - GameJam
+- 🤔 I’m looking for help with:
+  - linux signals
+- 💬 Ask me about:
+  - Computer architecture 
+  - Calculation model
+  - C
 - 📫 How to reach me:
   - nicolas.spijkerman@epitech.eu
   - nickspyker@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
+  - My life:
+    ```
+    while (1) {
+        work;
+    }
+    ```
+---
