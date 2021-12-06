@@ -1,6 +1,5 @@
-# Nicolas Spijkerman
+## Nicolas Spijkerman
 ### Welcome 👋
----
 - 🔭 I'm currently studying at:
   - Epitech Montpellier 
 - 🌱 I’m currently learning:
@@ -24,4 +23,3 @@
         work;
     }
     ```
----
