@@ -18,7 +18,7 @@
   - `nickspyker@gmail.com`
 - ⚡ Fun fact:
   - My life:
-    ```
+    ```c
     while (1) {
         work;
     }
