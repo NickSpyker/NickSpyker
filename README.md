@@ -1,6 +1,5 @@
 ## Nicolas Spijkerman
 ### Welcome 👋
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 - 🔭 I'm currently studying at:
   - `Epitech Montpellier`
 - 🌱 I’m currently learning:
@@ -44,3 +43,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickSpyker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickSpyker)
