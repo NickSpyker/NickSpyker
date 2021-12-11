@@ -17,7 +17,7 @@
   - `nicolas.spijkerman@epitech.eu`
   - `nickspyker@gmail.com`
 - ⚡ Fun fact:
-  - `My life:`
+  - My life:
     ```
     while (1) {
         work;
