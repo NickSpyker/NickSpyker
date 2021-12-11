@@ -1,5 +1,6 @@
 ## Nicolas Spijkerman
 ### Welcome 👋
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 - 🔭 I'm currently studying at:
   - `Epitech Montpellier`
 - 🌱 I’m currently learning:
@@ -24,7 +25,7 @@
     }
     ```
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 #### Languages I use & tried:
 [![c](https://user-images.githubusercontent.com/91091263/144858700-d0791947-3af0-446e-90fe-d8843cd05169.png)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -35,9 +36,11 @@
 [<img width="32" alt="98771085-46d8f180-23a9-11eb-9caf-9d4c0f605749 (1)" src="https://user-images.githubusercontent.com/91091263/145628331-5077139a-6baf-47c2-b257-acfed3a953b9.png">](https://code.visualstudio.com/)
 [![unity (1)](https://user-images.githubusercontent.com/91091263/145635166-161e0bd7-5e1a-4ef5-a1e4-6e34c5b5423a.png)](https://unity.com/fr)
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickSpyker&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickSpyker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
