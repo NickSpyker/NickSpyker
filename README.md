@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning:
   - `C/C++`
   - `Python`
+  - `Ruby`
 - 💬 Ask me about:
   - `Computer architecture`
   - `Calculation model`
