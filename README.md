@@ -18,9 +18,8 @@
     {
         long int money = 0;
         
-        while (1) {
+        while (1)
             work(me);
-        }
         return money;
     }
     ```
