@@ -13,10 +13,15 @@
   - `nicolas.spijkerman@epitech.eu`
   - `nickspyker@gmail.com`
 - ⚡ Fun fact:
-  - My life:
     ```c
-    while (1) {
-        work;
+    long int my_life(human_t *me)
+    {
+        long int money = 0;
+        
+        while (1) {
+            work(me);
+        }
+        return money;
     }
     ```
 
