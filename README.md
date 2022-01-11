@@ -18,7 +18,7 @@
     {
         long int money = 0;
         
-        while (1)
+        while (me->is_alive)
             work(me);
         return money;
     }
