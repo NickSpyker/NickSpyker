@@ -13,17 +13,6 @@
 - 📫 How to reach me:
   - `nicolas.spijkerman@epitech.eu`
   - `nickspyker@gmail.com`
-- ⚡ Fun fact:
-    ```c
-    long int my_life(human_t *me)
-    {
-        long int money = 0;
-        
-        while (me->is_alive)
-            work(me);
-        return money;
-    }
-    ```
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
