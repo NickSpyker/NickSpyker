@@ -27,6 +27,19 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+TypeScript   7 hrs 11 mins   █████████████████▒░░░░░░░   69.25 % 
+JavaScript   1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.63 % 
+SCSS         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Markdown     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+```
+<!--END_SECTION:waka-->
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ### GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickSpyker&count_private=true&show_icons=true&theme=onedark)
 
