@@ -27,15 +27,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 ### GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickSpyker&count_private=true&show_icons=true&theme=onedark)
 
