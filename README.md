@@ -3,7 +3,7 @@
 - 🔭 I'm currently studying at:
   - `Epitech Montpellier`
 - 🌱 I’m currently learning:
-  - `C/C++/C#`
+  - `C / C++ / C#`
   - `Python`
   - `Ruby`
   - `Rust`
