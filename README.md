@@ -25,7 +25,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickSpyke&count_private=true&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickSpyker&count_private=true&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickSpyker&layout=compact&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
