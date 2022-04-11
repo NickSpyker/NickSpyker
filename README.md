@@ -19,6 +19,7 @@
 
 See my last EPITECH projects:
 - [Maze generator and solver](https://github.com/NickSpyker/Dante-s-star)
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3 align="left">Languages and Tools:</h3>
