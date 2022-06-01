@@ -1,5 +1,5 @@
 ## Nicolas Spijkerman
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 - 🔭 I'm currently studying at:
   - `Epitech Montpellier`
 - 🌱 I’m currently learning:
